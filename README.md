@@ -30,7 +30,7 @@ A custom vector implementation, similar to the C++ STL vector. Uses Google Tests
 - Slower popping times.
 
 <h2>Timed Test</h2>
-Below is a timed test for inserting 25 million random ints, chars, and points.
+Below is a timed test for inserting 25 million random ints, chars, and points.(refer to old exo/ new statics under working)
 ![Vector-Implementation](Timing.jpg)
 
 <h2>Google Tests</h2>
